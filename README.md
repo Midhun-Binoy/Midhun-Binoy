@@ -53,6 +53,12 @@ Here's what I've been working on:
 
 ---
 
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munnoi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 📫 Let's Connect!
 - **Email:** (mailto:psnake999@gmail.com)
 - **LinkedIn:** (https://www.linkedin.com/in/midhun-binoy123/)
