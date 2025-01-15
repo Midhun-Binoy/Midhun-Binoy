@@ -54,8 +54,8 @@ Here's what I've been working on:
 ---
 
 ## 📫 Let's Connect!
-- **Email:** [YourEmail@example.com](mailto:psnake999@gmail.com)
-- **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/midhun-binoy123/)
+- **Email:** (mailto:psnake999@gmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/midhun-binoy123/)
 
 Feel free to check out my projects and provide feedback. I'm always looking to improve and grow! 🌟
 
