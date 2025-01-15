@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, welcome to my GitHub! 👋
 
 I'm Midhun Binoy, a passionate developer eager to learn, build, and share. Here's a little about me and what I work on:
@@ -51,6 +49,7 @@ Here's what I've been working on:
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Midhun-Binoy&show_icons=true&theme=radical)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-wine-three.vercel.app?user=Midhun-Binoy&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 
 ---
 
