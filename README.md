@@ -7,8 +7,6 @@ I'm Midhun Binoy, a passionate developer eager to learn, build, and share. Here'
 - 🐍 Python Developer
 - 🎓 Continuously learning technologies to strengthen my skills
 - 🔎 Interested in exploring problem-solving through code
-- 🌱 Currently diving deep into **Machine Learning**
-- 🕒 Committed to dedicating 3 hours daily for projects
 
 ---
 
@@ -21,29 +19,6 @@ Here are the tools and technologies I'm exploring and using:
 - **Database:** MongoDB, SQL
 - **Version Control:** Git, GitHub
 - **Other Tools:** Visual Studio Code, Postman
-
----
-
-## 💡 My Goals
-- 🌐 Build responsive, user-friendly applications
-- 🛠 Contribute to open source projects
-- 📘 Learn advanced frameworks like React and Next.js
-- 💾 Gain proficiency in backend and database management
-
----
-
-## 📂 My Projects
-Here's what I've been working on:
-
-1. **Project Title 1**
-   - Short description of the project
-   - Tech stack used: `Python`, `Flask`, `SQL`, etc.
-
-2. **Project Title 2**
-   - Short description of the project
-   - Tech stack used: `Python`, `Django`, `MongoDB`, etc.
-
-3. ...more coming soon 🚧
 
 ---
 
