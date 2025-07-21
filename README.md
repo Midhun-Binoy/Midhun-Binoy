@@ -4,7 +4,6 @@ I'm Midhun Binoy, a passionate developer eager to learn, build, and share. Here'
 
 ## 🚀 About Me
 - 💻 Full Stack Developer in training
-- 🐍 Python Developer
 - 🎓 Continuously learning technologies to strengthen my skills
 - 🔎 Interested in exploring problem-solving through code
 
@@ -37,10 +36,6 @@ Here are the tools and technologies I'm exploring and using:
 ## 📫 Let's Connect!
 - **Email:** (mailto:psnake999@gmail.com)
 - **LinkedIn:** (https://www.linkedin.com/in/midhun-binoy123/)
-
-Feel free to check out my projects and provide feedback. I'm always looking to improve and grow! 🌟
-
----
 
 Thanks for visiting! 😊
 
